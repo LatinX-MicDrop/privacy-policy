@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## PRIVACY POLICY
 
-You can use the [editor on GitHub](https://github.com/LatinX-MicDrop/privacy-policy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### We DO NOT COLLECT, SAVE, SELL, or USE any information about our customers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This Privacy Policy is between you and Solis
 
-### Markdown
+We are providing this privacy policy so you understand how we use and protect your information.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You hereby acknowledge, accept and agree to this Privacy Policy. If you do not agree to this Privacy Policy you are hereby not permitted to access or use our website, products or services.
 
-```markdown
-Syntax highlighted code block
+We DO NOT COLLECT, SAVE, SELL, or USE any information about our customers.
 
-# Header 1
-## Header 2
-### Header 3
+If you email us You agree to be contacted by us and we will respond to you at the same email address you contacted us with and will communicate with you only for the purpose you contacted us about. We do NOT collect, save, sell or reuse your email.
 
-- Bulleted
-- List
+We never send any unsolicited emails nor do we distribute or advertise any material besides our own products advertised on our website.
 
-1. Numbered
-2. List
+We do not contact our customers directly. If you join our social media pages such as Facebook or YouTube we do from time to time post relative information about our products there.
 
-**Bold** and _Italic_ and `Code` text
+If you have any questions about this Privacy Policy please contact us at susysolis@gmail.com 
 
-[Link](url) and ![Image](src)
-```
+We reserve the right to change this Privacy Policy at any time and such changes will be updated here. By using our website(s) products or services You hereby acknowledge, accept and agree to this Privacy Policy.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LatinX-MicDrop/privacy-policy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+© Copyright 2022 Solis All Rights Reserved
